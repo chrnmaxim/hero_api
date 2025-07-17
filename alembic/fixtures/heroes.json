@@ -1,0 +1,233 @@
+{
+"heroes": [
+	{
+		"id" : 69,
+		"name" : "Batman",
+		"powerstats" : "{\"power\": \"63\", \"speed\": \"29\", \"combat\": \"90\", \"strength\": \"40\", \"durability\": \"55\", \"intelligence\": \"81\"}",
+		"biography" : "{\"aliases\": [\"Batman II\", \"The Tomorrow Knight\", \"The second Dark Knight\", \"The Dark Knight of Tomorrow\", \"Batman Beyond\"], \"alignment\": \"good\", \"full-name\": \"Terry McGinnis\", \"publisher\": \"DC Comics\", \"alter-egos\": \"No alter egos found.\", \"place-of-birth\": \"Gotham City, 25th Century\", \"first-appearance\": \"Batman Beyond #1\"}",
+		"appearance" : "{\"race\": \"Human\", \"gender\": \"Male\", \"height\": [\"5''10\", \"178 cm\"], \"weight\": [\"170 lb\", \"77 kg\"], \"eye-color\": \"Blue\", \"hair-color\": \"Black\"}",
+		"work" : "{\"base\": \"21st Century Gotham City\", \"occupation\": \"-\"}",
+		"connections" : "{\"relatives\": \"Bruce Wayne (biological father), Warren McGinnis (father, deceased), Mary McGinnis (mother), Matt McGinnis (brother)\", \"group-affiliation\": \"Batman Family, Justice League Unlimited\"}",
+		"image" : "{\"url\": \"https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/10441.jpg\"}"
+	},
+	{
+		"id" : 70,
+		"name" : "Batman",
+		"powerstats" : "{\"power\": \"47\", \"speed\": \"27\", \"combat\": \"100\", \"strength\": \"26\", \"durability\": \"50\", \"intelligence\": \"100\"}",
+		"biography" : "{\"aliases\": [\"Insider\", \"Matches Malone\"], \"alignment\": \"good\", \"full-name\": \"Bruce Wayne\", \"publisher\": \"DC Comics\", \"alter-egos\": \"No alter egos found.\", \"place-of-birth\": \"Crest Hill, Bristol Township; Gotham County\", \"first-appearance\": \"Detective Comics #27\"}",
+		"appearance" : "{\"race\": \"Human\", \"gender\": \"Male\", \"height\": [\"6''2\", \"188 cm\"], \"weight\": [\"210 lb\", \"95 kg\"], \"eye-color\": \"blue\", \"hair-color\": \"black\"}",
+		"work" : "{\"base\": \"Batcave, Stately Wayne Manor, Gotham City; Hall of Justice, Justice League Watchtower\", \"occupation\": \"Businessman\"}",
+		"connections" : "{\"relatives\": \"Damian Wayne (son), Dick Grayson (adopted son), Tim Drake (adopted son), Jason Todd (adopted son), Cassandra Cain (adopted ward)\\nMartha Wayne (mother, deceased), Thomas Wayne (father, deceased), Alfred Pennyworth (former guardian), Roderick Kane (grandfather, deceased), Elizabeth Kane (grandmother, deceased), Nathan Kane (uncle, deceased), Simon Hurt (ancestor), Wayne Family\", \"group-affiliation\": \"Batman Family, Batman Incorporated, Justice League, Outsiders, Wayne Enterprises, Club of Heroes, formerly White Lantern Corps, Sinestro Corps\"}",
+		"image" : "{\"url\": \"https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/639.jpg\"}"
+	},
+	{
+		"id" : 71,
+		"name" : "Batman II",
+		"powerstats" : "{\"power\": \"36\", \"speed\": \"33\", \"combat\": \"100\", \"strength\": \"11\", \"durability\": \"28\", \"intelligence\": \"88\"}",
+		"biography" : "{\"aliases\": [\"Dick Grayson\"], \"alignment\": \"good\", \"full-name\": \"Dick Grayson\", \"publisher\": \"Nightwing\", \"alter-egos\": \"Nightwing, Robin\", \"place-of-birth\": \"-\", \"first-appearance\": \"-\"}",
+		"appearance" : "{\"race\": \"Human\", \"gender\": \"Male\", \"height\": [\"5''10\", \"178 cm\"], \"weight\": [\"175 lb\", \"79 kg\"], \"eye-color\": \"Blue\", \"hair-color\": \"Black\"}",
+		"work" : "{\"base\": \"Gotham City; formerly Bludhaven, New York City\", \"occupation\": \"-\"}",
+		"connections" : "{\"relatives\": \"John Grayson (father, deceased), Mary Grayson (mother, deceased), Bruce Wayne \/ Batman (adoptive father), Damian Wayne \/ Robin (foster brother), Jason Todd \/ Red Hood (adoptive brother), Tim Drake \/ Red Robin (adoptive brother), Cassandra Cain \/ Batgirl IV (adoptive sister)\", \"group-affiliation\": \"Justice League Of America, Batman Family\"}",
+		"image" : "{\"url\": \"https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/1496.jpg\"}"
+	},
+	{
+		"id" : 577,
+		"name" : "Scarlet Spider",
+		"powerstats" : "{\"power\": \"46\", \"speed\": \"60\", \"combat\": \"56\", \"strength\": \"53\", \"durability\": \"74\", \"intelligence\": \"75\"}",
+		"biography" : "{\"aliases\": [\"Spider-Clone\", \"Spider-Man\"], \"alignment\": \"good\", \"full-name\": \"Benjamin Reilly\", \"publisher\": \"Spider-Carnage\", \"alter-egos\": \"Spider-Carnage\", \"place-of-birth\": \"Place of birth unknown\", \"first-appearance\": \"Amazing Spider-Man # 149 (as Spider-Clone); Web of Spider-Man # 117 (as Ben Reilly)\"}",
+		"appearance" : "{\"race\": \"Human\", \"gender\": \"Male\", \"height\": [\"5''10''\", \"178 cm\"], \"weight\": [\"165 lb\", \"74 kg\"], \"eye-color\": \"Blue\", \"hair-color\": \"Blond\"}",
+		"work" : "{\"base\": \"-\", \"occupation\": \"Crime-fighter\"}",
+		"connections" : "{\"relatives\": \"Peter Parker (clone of), May Parker (Aunt), Ben Parker (Uncle)\", \"group-affiliation\": \"None; formerly New Warriors\"}",
+		"image" : "{\"url\": \"https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/174.jpg\"}"
+	},
+	{
+		"id" : 578,
+		"name" : "Scarlet Spider II",
+		"powerstats" : "{\"power\": \"37\", \"speed\": \"60\", \"combat\": \"56\", \"strength\": \"55\", \"durability\": \"40\", \"intelligence\": \"88\"}",
+		"biography" : "{\"aliases\": [\"Tarantula\", \"Kaine\", \"Ara�a Escarlata\"], \"alignment\": \"good\", \"full-name\": \"Kaine Parker\", \"publisher\": \"Marvel Comics\", \"alter-egos\": \"No alter egos found.\", \"place-of-birth\": \"-\", \"first-appearance\": \"Web of Spider-Man #119 (December, 1994)\"}",
+		"appearance" : "{\"race\": \"Clone\", \"gender\": \"Male\", \"height\": [\"6''4\", \"193 cm\"], \"weight\": [\"250 lb\", \"113 kg\"], \"eye-color\": \"Brown\", \"hair-color\": \"Brown\"}",
+		"work" : "{\"base\": \"-\", \"occupation\": \"Fugitive\"}",
+		"connections" : "{\"relatives\": \"Miles Warren (creator), Peter Parker (Spider-Man, genetic template), Ben Reilly (Scarlet Spider, fellow clone, deceased), Spidercide (fellow clone, allegedly deceased), Guardian (fellow clone, deceased), Jack (fellow clone, deceased)\", \"group-affiliation\": \"-\"}",
+		"image" : "{\"url\": \"https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/1536.jpg\"}"
+	},
+	{
+		"id" : 617,
+		"name" : "Spider-Carnage",
+		"powerstats" : "{\"power\": \"null\", \"speed\": \"null\", \"combat\": \"null\", \"strength\": \"69\", \"durability\": \"null\", \"intelligence\": \"null\"}",
+		"biography" : "{\"aliases\": [\"-\"], \"alignment\": \"bad\", \"full-name\": \"Benjamin Reilly\", \"publisher\": \"Scarlet Spider\", \"alter-egos\": \"Scarlet Spider\", \"place-of-birth\": \"-\", \"first-appearance\": \"-\"}",
+		"appearance" : "{\"race\": \"Symbiote\", \"gender\": \"Male\", \"height\": [\"-\", \"0 cm\"], \"weight\": [\"- lb\", \"0 kg\"], \"eye-color\": \"-\", \"hair-color\": \"-\"}",
+		"work" : "{\"base\": \"-\", \"occupation\": \"-\"}",
+		"connections" : "{\"relatives\": \"-\", \"group-affiliation\": \"-\"}",
+		"image" : "{\"url\": \"https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/957.jpg\"}"
+	},
+	{
+		"id" : 618,
+		"name" : "Spider-Girl",
+		"powerstats" : "{\"power\": \"53\", \"speed\": \"60\", \"combat\": \"75\", \"strength\": \"38\", \"durability\": \"65\", \"intelligence\": \"63\"}",
+		"biography" : "{\"aliases\": [\"-\"], \"alignment\": \"good\", \"full-name\": \"May ''Mayday'' Parker\", \"publisher\": \"Marvel Comics\", \"alter-egos\": \"No alter egos found.\", \"place-of-birth\": \"New York City, New York\", \"first-appearance\": \"What If? Vol 2 #105 (February, 1998)\"}",
+		"appearance" : "{\"race\": \"Human\", \"gender\": \"Female\", \"height\": [\"5''7\", \"170 cm\"], \"weight\": [\"119 lb\", \"54 kg\"], \"eye-color\": \"Blue\", \"hair-color\": \"Brown\"}",
+		"work" : "{\"base\": \"New York City, New York\", \"occupation\": \"-\"}",
+		"connections" : "{\"relatives\": \"-\", \"group-affiliation\": \"-\"}",
+		"image" : "{\"url\": \"https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/480.jpg\"}"
+	},
+	{
+		"id" : 619,
+		"name" : "Spider-Gwen",
+		"powerstats" : "{\"power\": \"66\", \"speed\": \"63\", \"combat\": \"70\", \"strength\": \"55\", \"durability\": \"70\", \"intelligence\": \"75\"}",
+		"biography" : "{\"aliases\": [\"Spider-Woman\"], \"alignment\": \"good\", \"full-name\": \"Gwen Stacy\", \"publisher\": \"Marvel Comics\", \"alter-egos\": \"No alter egos found.\", \"place-of-birth\": \"-\", \"first-appearance\": \"Edge of Spider-Verse #2\"}",
+		"appearance" : "{\"race\": \"Human\", \"gender\": \"Female\", \"height\": [\"5''5\", \"165 cm\"], \"weight\": [\"125 lb\", \"56 kg\"], \"eye-color\": \"Blue\", \"hair-color\": \"Blond\"}",
+		"work" : "{\"base\": \"-\", \"occupation\": \"-\"}",
+		"connections" : "{\"relatives\": \"George Stacy (father), Helen Stacy (mother, deceased)\", \"group-affiliation\": \"Warriors of the Great Web; formerly Mary Janes, Spider-Army\"}",
+		"image" : "{\"url\": \"https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/10507.jpg\"}"
+	},
+	{
+		"id" : 620,
+		"name" : "Spider-Man",
+		"powerstats" : "{\"power\": \"74\", \"speed\": \"67\", \"combat\": \"85\", \"strength\": \"55\", \"durability\": \"75\", \"intelligence\": \"90\"}",
+		"biography" : "{\"aliases\": [\"Spiderman\", \"Bag-Man\", \"Black Marvel\", \"Captain Universe\", \"Dusk\", \"Green Hood\", \"Hornet\", \"Mad Dog 336\", \"Peter Palmer\", \"Prodigy\", \"Ricochet\", \"Scarlet Spider\", \"Spider-Boy\", \"Spider-Hulk\", \"Spider-Morphosis\"], \"alignment\": \"good\", \"full-name\": \"Peter Parker\", \"publisher\": \"Marvel Comics\", \"alter-egos\": \"No alter egos found.\", \"place-of-birth\": \"New York, New York\", \"first-appearance\": \"Amazing Fantasy #15\"}",
+		"appearance" : "{\"race\": \"Human\", \"gender\": \"Male\", \"height\": [\"5''10\", \"178 cm\"], \"weight\": [\"165 lb\", \"74 kg\"], \"eye-color\": \"Hazel\", \"hair-color\": \"Brown\"}",
+		"work" : "{\"base\": \"New York, New York\", \"occupation\": \"Freelance photographer, teacher\"}",
+		"connections" : "{\"relatives\": \"Richard Parker (father, deceased), Mary Parker(mother, deceased), Benjamin Parker (uncle, deceased), May Parker (aunt), Mary Jane Watson-Parker (wife), May Parker (daughter, allegedly deceased)\", \"group-affiliation\": \"Member of the Avengers, formerly member of Outlaws, alternate Fantastic Four\"}",
+		"image" : "{\"url\": \"https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/133.jpg\"}"
+	},
+	{
+		"id" : 621,
+		"name" : "Spider-Man",
+		"powerstats" : "{\"power\": \"null\", \"speed\": \"null\", \"combat\": \"null\", \"strength\": \"57\", \"durability\": \"null\", \"intelligence\": \"null\"}",
+		"biography" : "{\"aliases\": [\"Spider-Man 2099\", \"Spiderman\"], \"alignment\": \"good\", \"full-name\": \"Miguel O''Hara\", \"publisher\": \"Marvel Comics\", \"alter-egos\": \"No alter egos found.\", \"place-of-birth\": \"-\", \"first-appearance\": \"Amazing Spider-Man #365 (August, 1992)\"}",
+		"appearance" : "{\"race\": \"Human\", \"gender\": \"-\", \"height\": [\"5''10\", \"178 cm\"], \"weight\": [\"170 lb\", \"77 kg\"], \"eye-color\": \"Red\", \"hair-color\": \"Brown\"}",
+		"work" : "{\"base\": \"-\", \"occupation\": \"CEO of Alchemax Corporation, Executive Assistant\"}",
+		"connections" : "{\"relatives\": \"-\", \"group-affiliation\": \"-\"}",
+		"image" : "{\"url\": \"https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/479.jpg\"}"
+	},
+	{
+		"id" : 622,
+		"name" : "Spider-Man",
+		"powerstats" : "{\"power\": \"null\", \"speed\": \"null\", \"combat\": \"null\", \"strength\": \"58\", \"durability\": \"null\", \"intelligence\": \"null\"}",
+		"biography" : "{\"aliases\": [\"Spiderman\"], \"alignment\": \"good\", \"full-name\": \"Miles Morales\", \"publisher\": \"Marvel Comics\", \"alter-egos\": \"No alter egos found.\", \"place-of-birth\": \"-\", \"first-appearance\": \"Ultimate Comics Fallout #4 (October, 2011)\"}",
+		"appearance" : "{\"race\": \"Human\", \"gender\": \"Male\", \"height\": [\"5''2\", \"157 cm\"], \"weight\": [\"125 lb\", \"56 kg\"], \"eye-color\": \"Brown\", \"hair-color\": \"Black\"}",
+		"work" : "{\"base\": \"-\", \"occupation\": \"Student, adventurer, vigilante\"}",
+		"connections" : "{\"relatives\": \"-\", \"group-affiliation\": \"-\"}",
+		"image" : "{\"url\": \"https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/10647.jpg\"}"
+	},
+	{
+		"id" : 623,
+		"name" : "Spider-Woman",
+		"powerstats" : "{\"power\": \"68\", \"speed\": \"42\", \"combat\": \"70\", \"strength\": \"42\", \"durability\": \"60\", \"intelligence\": \"56\"}",
+		"biography" : "{\"aliases\": [\"Arachne\", \"Ariadne Hyde\", \"Dark Angel\", \"Dark Angel of San Francisco\"], \"alignment\": \"good\", \"full-name\": \"Jessica Drew\", \"publisher\": \"Marvel Comics\", \"alter-egos\": \"No alter egos found.\", \"place-of-birth\": \"London, England\", \"first-appearance\": \"Marvel Spotlight #32 (February, 1977)\"}",
+		"appearance" : "{\"race\": \"Human\", \"gender\": \"Female\", \"height\": [\"5''10\", \"178 cm\"], \"weight\": [\"130 lb\", \"59 kg\"], \"eye-color\": \"Green\", \"hair-color\": \"Black\"}",
+		"work" : "{\"base\": \"-\", \"occupation\": \"Form agent of HYDRA, former bounty hunter, private investigator, adventurer\"}",
+		"connections" : "{\"relatives\": \"Jonathan (father, deceased), Merriem (mother, deceased)\", \"group-affiliation\": \"Former agent of HYDRA\"}",
+		"image" : "{\"url\": \"https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/481.jpg\"}"
+	},
+	{
+		"id" : 624,
+		"name" : "Spider-Woman II",
+		"powerstats" : "{\"power\": \"null\", \"speed\": \"null\", \"combat\": \"null\", \"strength\": \"null\", \"durability\": \"null\", \"intelligence\": \"null\"}",
+		"biography" : "{\"aliases\": [\"-\"], \"alignment\": \"good\", \"full-name\": \"\", \"publisher\": \"Marvel Comics\", \"alter-egos\": \"No alter egos found.\", \"place-of-birth\": \"-\", \"first-appearance\": \"-\"}",
+		"appearance" : "{\"race\": \"null\", \"gender\": \"Female\", \"height\": [\"-\", \"0 cm\"], \"weight\": [\"- lb\", \"0 kg\"], \"eye-color\": \"-\", \"hair-color\": \"-\"}",
+		"work" : "{\"base\": \"-\", \"occupation\": \"-\"}",
+		"connections" : "{\"relatives\": \"-\", \"group-affiliation\": \"-\"}",
+		"image" : "{\"url\": \"https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/483.jpg\"}"
+	},
+	{
+		"id" : 625,
+		"name" : "Spider-Woman III",
+		"powerstats" : "{\"power\": \"60\", \"speed\": \"27\", \"combat\": \"28\", \"strength\": \"48\", \"durability\": \"42\", \"intelligence\": \"50\"}",
+		"biography" : "{\"aliases\": [\"-\"], \"alignment\": \"good\", \"full-name\": \"Martha Franklin\", \"publisher\": \"Marvel Comics\", \"alter-egos\": \"No alter egos found.\", \"place-of-birth\": \"Rochester, New York\", \"first-appearance\": \"(cameo) Spectacular Spider-Man #263 (1998); (full) Amazing Spider-Man #441 (1998)\"}",
+		"appearance" : "{\"race\": \"null\", \"gender\": \"Female\", \"height\": [\"5''8\", \"173 cm\"], \"weight\": [\"123 lb\", \"55 kg\"], \"eye-color\": \"Brown\", \"hair-color\": \"Brown\"}",
+		"work" : "{\"base\": \"-\", \"occupation\": \"-\"}",
+		"connections" : "{\"relatives\": \"Jeremy Franklin (father, deceased), Bernice Franklin (mother, deceased), J. Jonah Jameson (foster father), Marla Madison (foster mother)\", \"group-affiliation\": \"Formerly Gathering of the Five\"}",
+		"image" : "{\"url\": \"https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/482.jpg\"}"
+	},
+	{
+		"id" : 626,
+		"name" : "Spider-Woman IV",
+		"powerstats" : "{\"power\": \"null\", \"speed\": \"null\", \"combat\": \"null\", \"strength\": \"null\", \"durability\": \"null\", \"intelligence\": \"null\"}",
+		"biography" : "{\"aliases\": [\"Spider-Woman\"], \"alignment\": \"bad\", \"full-name\": \"Charlotte Witter\", \"publisher\": \"Marvel Comics\", \"alter-egos\": \"No alter egos found.\", \"place-of-birth\": \"-\", \"first-appearance\": \"Amazing Spider-Man Volume 2 #5 (# 446)\"}",
+		"appearance" : "{\"race\": \"null\", \"gender\": \"Female\", \"height\": [\"5''10\", \"178 cm\"], \"weight\": [\"128 lb\", \"58 kg\"], \"eye-color\": \"Red\", \"hair-color\": \"White\"}",
+		"work" : "{\"base\": \"New York City\", \"occupation\": \"Fashion designer, professional criminal\"}",
+		"connections" : "{\"relatives\": \"Cassandra Webb (aka Madame Web, grandmother)\", \"group-affiliation\": \"-\"}",
+		"image" : "{\"url\": \"https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/883.jpg\"}"
+	},
+	{
+		"id" : 60,
+		"name" : "Bane",
+		"powerstats" : "{\"power\": \"51\", \"speed\": \"23\", \"combat\": \"95\", \"strength\": \"38\", \"durability\": \"56\", \"intelligence\": \"88\"}",
+		"biography" : "{\"aliases\": [\"-\"], \"alignment\": \"bad\", \"full-name\": \"\", \"publisher\": \"DC Comics\", \"alter-egos\": \"No alter egos found.\", \"place-of-birth\": \"-\", \"first-appearance\": \"Batman: Vengeance of Bane #1 (January, 1993)\"}",
+		"appearance" : "{\"race\": \"Human\", \"gender\": \"Male\", \"height\": [\"6''8\", \"203 cm\"], \"weight\": [\"400 lb\", \"180 kg\"], \"eye-color\": \"-\", \"hair-color\": \"-\"}",
+		"work" : "{\"base\": \"Santa Prisca\", \"occupation\": \"-\"}",
+		"connections" : "{\"relatives\": \"King Snake (father)\", \"group-affiliation\": \"Suicide Squad, The Secret Society of Super Villains\"}",
+		"image" : "{\"url\": \"https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/637.jpg\"}"
+	},
+	{
+		"id" : 716,
+		"name" : "Wolfsbane",
+		"powerstats" : "{\"power\": \"26\", \"speed\": \"35\", \"combat\": \"42\", \"strength\": \"16\", \"durability\": \"42\", \"intelligence\": \"38\"}",
+		"biography" : "{\"aliases\": [\"Grimfang\", \"Mutate #490\"], \"alignment\": \"good\", \"full-name\": \"Rahne Sinclair\", \"publisher\": \"Marvel Comics\", \"alter-egos\": \"No alter egos found.\", \"place-of-birth\": \"Somewhere in Ross and Cromarty, Scotland\", \"first-appearance\": \"Marvel Graphic Novel #4: New Mutants\"}",
+		"appearance" : "{\"race\": \"null\", \"gender\": \"Female\", \"height\": [\"12''\", \"366 cm\"], \"weight\": [\"1050 lb\", \"473 kg\"], \"eye-color\": \"Green\", \"hair-color\": \"Auburn\"}",
+		"work" : "{\"base\": \"(current) X-Factor Investigations, New York City (former)Professor Xavier''s School of Gifted Youngsters, Salem Center, Westchester County, New York; Muir Island, Scotland; X-Factor headquarters, Embassy Row, Washington, D.C.; X-Factor Headquarters, New Yo\", \"occupation\": \"Teacher\"}",
+		"connections" : "{\"relatives\": \"Reverand Craig (father), Moira MacTaggert (surrogate mother, deceased)\", \"group-affiliation\": \"(current) X-Factor Investigations, (former) X-Factor, New Mutants, Hellions, Excalibur\"}",
+		"image" : "{\"url\": \"https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/160.jpg\"}"
+	},
+	{
+		"id" : 195,
+		"name" : "Cyborg Superman",
+		"powerstats" : "{\"power\": \"100\", \"speed\": \"92\", \"combat\": \"80\", \"strength\": \"93\", \"durability\": \"100\", \"intelligence\": \"75\"}",
+		"biography" : "{\"aliases\": [\"Grandmaster of the Manhunters\", \"Herald of the Anti-Monitor\", \"Alpha-Prime of the Alpha Lanterns\"], \"alignment\": \"bad\", \"full-name\": \"Henry Henshaw\", \"publisher\": \"DC Comics\", \"alter-egos\": \"No alter egos found.\", \"place-of-birth\": \"-\", \"first-appearance\": \"Adventures of Superman #466 (May, 1990)\"}",
+		"appearance" : "{\"race\": \"Cyborg\", \"gender\": \"Male\", \"height\": [\"-\", \"0 cm\"], \"weight\": [\"- lb\", \"0 kg\"], \"eye-color\": \"Blue\", \"hair-color\": \"Black\"}",
+		"work" : "{\"base\": \"Warworld, Qward, Antimatter Universe, formerly Biot, Sector 3601\", \"occupation\": \"-\"}",
+		"connections" : "{\"relatives\": \"Terri Henshaw (wife, deceased)\", \"group-affiliation\": \"Alpha Lantern Corps, Manhunters, Warworld, formerly Apokolips and Sinestro Corps\"}",
+		"image" : "{\"url\": \"https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/667.jpg\"}"
+	},
+	{
+		"id" : 644,
+		"name" : "Superman",
+		"powerstats" : "{\"power\": \"100\", \"speed\": \"100\", \"combat\": \"85\", \"strength\": \"100\", \"durability\": \"100\", \"intelligence\": \"94\"}",
+		"biography" : "{\"aliases\": [\"Clark Joseph Kent\", \"The Man of Steel\", \"the Man of Tomorrow\", \"the Last Son of Krypton\", \"Big Blue\", \"the Metropolis Marvel\", \"the Action Ace\"], \"alignment\": \"good\", \"full-name\": \"Clark Kent\", \"publisher\": \"Superman Prime One-Million\", \"alter-egos\": \"Superman Prime One-Million\", \"place-of-birth\": \"Krypton\", \"first-appearance\": \"ACTION COMICS #1\"}",
+		"appearance" : "{\"race\": \"Kryptonian\", \"gender\": \"Male\", \"height\": [\"6''3\", \"191 cm\"], \"weight\": [\"225 lb\", \"101 kg\"], \"eye-color\": \"Blue\", \"hair-color\": \"Black\"}",
+		"work" : "{\"base\": \"Metropolis\", \"occupation\": \"Reporter for the Daily Planet and novelist\"}",
+		"connections" : "{\"relatives\": \"Lois Lane (wife), Jor-El (father, deceased), Lara (mother, deceased), Jonathan Kent (adoptive father), Martha Kent (adoptive mother), Seyg-El (paternal grandfather, deceased), Zor-El (uncle, deceased), Alura (aunt, deceased), Supergirl (Kara Zor-El, cousin), Superboy (Kon-El\/Conner Kent, partial clone)\", \"group-affiliation\": \"Justice League of America, The Legion of Super-Heroes (pre-Crisis as Superboy); Justice Society of America (pre-Crisis Earth-2 version); All-Star Squadron (pre-Crisis Earth-2 version)\"}",
+		"image" : "{\"url\": \"https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/791.jpg\"}"
+	},
+	{
+		"id" : 370,
+		"name" : "Joker",
+		"powerstats" : "{\"power\": \"43\", \"speed\": \"12\", \"combat\": \"70\", \"strength\": \"10\", \"durability\": \"60\", \"intelligence\": \"100\"}",
+		"biography" : "{\"aliases\": [\"Red Hood I\", \"Clown Prince of Crime\", \"Harlequin of Hate\", \"Jack Napier\", \"Joe Kerr\", \"Mr. J\"], \"alignment\": \"bad\", \"full-name\": \"Jack Napier\", \"publisher\": \"DC Comics\", \"alter-egos\": \"No alter egos found.\", \"place-of-birth\": \"-\", \"first-appearance\": \"Batman #1 (Spring 1940)\"}",
+		"appearance" : "{\"race\": \"Human\", \"gender\": \"Male\", \"height\": [\"6''5\", \"196 cm\"], \"weight\": [\"192 lb\", \"86 kg\"], \"eye-color\": \"Green\", \"hair-color\": \"Green\"}",
+		"work" : "{\"base\": \"Arkham Asylum, Gotham City; Ha-Hacienda\", \"occupation\": \"-\"}",
+		"connections" : "{\"relatives\": \"Jeannie (wife, deceased); Unborn son (deceased); Melvin Reipan (cousin, deceased)\", \"group-affiliation\": \"Black Glove, Injustice Gang, Injustice League, Joker League of Anarchy\"}",
+		"image" : "{\"url\": \"https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/719.jpg\"}"
+	},
+	{
+		"id" : 724,
+		"name" : "X-Man",
+		"powerstats" : "{\"power\": \"100\", \"speed\": \"53\", \"combat\": \"84\", \"strength\": \"53\", \"durability\": \"95\", \"intelligence\": \"88\"}",
+		"biography" : "{\"aliases\": [\"Nate the Great\"], \"alignment\": \"good\", \"full-name\": \"Nate Grey\", \"publisher\": \"Marvel Comics\", \"alter-egos\": \"No alter egos found.\", \"place-of-birth\": \"American Northeast of Earth-295\", \"first-appearance\": \"X-Man #1 (1995)\"}",
+		"appearance" : "{\"race\": \"null\", \"gender\": \"Male\", \"height\": [\"5''9\", \"175 cm\"], \"weight\": [\"135 lb\", \"61 kg\"], \"eye-color\": \"Blue\", \"hair-color\": \"Brown\"}",
+		"work" : "{\"base\": \"-\", \"occupation\": \"Former shaman, adventurer, freedom fighter\"}",
+		"connections" : "{\"relatives\": \"Scott Summers of Earth-295 (Cyclops, genetic template), Jean Grey of Earth-295 (genetic template)\", \"group-affiliation\": \"Formerly X-Men, Brotherhood of Mutants, Forge''s resistance\"}",
+		"image" : "{\"url\": \"https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/1150.jpg\"}"
+	},
+	{
+		"id" : 213,
+		"name" : "Deadpool",
+		"powerstats" : "{\"power\": \"100\", \"speed\": \"50\", \"combat\": \"100\", \"strength\": \"32\", \"durability\": \"100\", \"intelligence\": \"69\"}",
+		"biography" : "{\"aliases\": [\"Wade Wilson\", \"Jack\", \"Chiyonosake (\\\"the Wolf of the Rice Wine\\\")\", \"Rhodes\", \"Corpus\", \"Lopez\", \"Hobgoblin\", \"Thom Cruz\", \"Peter Parker\"], \"alignment\": \"neutral\", \"full-name\": \"Wade Wilson\", \"publisher\": \"Evil Deadpool\", \"alter-egos\": \"Evil Deadpool, Venompool\", \"place-of-birth\": \"Canada\", \"first-appearance\": \"New Mutants #98 (February, 1991)\"}",
+		"appearance" : "{\"race\": \"Mutant\", \"gender\": \"Male\", \"height\": [\"6''2\", \"188 cm\"], \"weight\": [\"210 lb\", \"95 kg\"], \"eye-color\": \"Brown\", \"hair-color\": \"No Hair\"}",
+		"work" : "{\"base\": \"Cavern-X, Sedona, Arizona, Mobile\", \"occupation\": \"Mercenary; former enforcer, government operative, sumo wrestler, soldier, assassin, anti-hero, others\"}",
+		"connections" : "{\"relatives\": \"Thomas \\\"Mickey\\\" Wilson (father, deceased); Hailey Wilson (mother, deceased); Gretchen Wilson, Orksa (ex-wives); Evil Deadpool (clone); Widdle Wade (clone)\", \"group-affiliation\": \"Thunderbolts (Strike Team), shares body with Agent Preston; formerly X-Force, Deadpool Corps, Agency X, S.H.I.E.L.D.; Code Red, Six Pack, One World Church, DP Inc., Weapon X, Weapon Plus, Heroes for Hire, Secret Defenders, Frightful Four, Team Deadpool, L\"}",
+		"image" : "{\"url\": \"https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/835.jpg\"}"
+	},
+	{
+		"id" : 247,
+		"name" : "Evil Deadpool",
+		"powerstats" : "{\"power\": \"100\", \"speed\": \"50\", \"combat\": \"100\", \"strength\": \"32\", \"durability\": \"100\", \"intelligence\": \"69\"}",
+		"biography" : "{\"aliases\": [\"Dreadpool\"], \"alignment\": \"bad\", \"full-name\": \"Wade Wilson\", \"publisher\": \"Deadpool\", \"alter-egos\": \"Deadpool, Venompool\", \"place-of-birth\": \"-\", \"first-appearance\": \"Deadpool Vol 2 #44 (December, 2011)\"}",
+		"appearance" : "{\"race\": \"Mutant\", \"gender\": \"Male\", \"height\": [\"6''2\", \"188 cm\"], \"weight\": [\"210 lb\", \"95 kg\"], \"eye-color\": \"White\", \"hair-color\": \"Red\"}",
+		"work" : "{\"base\": \"-\", \"occupation\": \"Mercenary, Assasin\"}",
+		"connections" : "{\"relatives\": \"-\", \"group-affiliation\": \"Evil Deadpool Corps\"}",
+		"image" : "{\"url\": \"https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/10090.jpg\"}"
+	}
+]}
