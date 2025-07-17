@@ -1,9 +1,9 @@
-name: Push in PR into develop branch. Linter and Backend tests.
+name: Push in PR into main branch. Linter and Backend tests.
 
 on:
   pull_request:
     branches:
-      - develop
+      - main
 
 jobs:
   linter:
